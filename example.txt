@@ -1,0 +1,9 @@
+My eyes are brown.
+My hair is brown.
+I like grapes.
+This is a new test where I dont use pointers.
+Seconed attempt without using pointers.
+I only have 1 hour and 30 minutes left.
+I am really hungry.
+It is very hot right now.
+I can't hear very well.

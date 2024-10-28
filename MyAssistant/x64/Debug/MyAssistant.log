@@ -1,0 +1,3 @@
+﻿  MyAssistant.cpp
+C:\Users\RD\source\repos\MyAssistant\MyAssistant.cpp(110,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  MyAssistant.vcxproj -> C:\Users\RD\source\repos\MyAssistant\x64\Debug\MyAssistant.exe
